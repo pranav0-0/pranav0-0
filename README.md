@@ -2,6 +2,6 @@
 - 👀 I’m interested in web developement(full stack) & c++ projects;
 - 🌱 I’m currently learning Computer Engineering(Diploma) at D.Y.Patil School of Engineering, Lohegaon, Pune;
 - 📫 How to reach me https://pranav0-0.github.io/Lmao
--                   https://twitter.com/o_pranav_o/;
 -                   https://Instagram.com/o_pranav_o ;
+-                   https://Twitter.com/o_pranav_o/;
 -                   https://LinkedIn.com/in/o-pranav-o ;
