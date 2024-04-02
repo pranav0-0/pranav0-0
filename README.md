@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav
-- 👀 I’m interested in web developement(full stack) & c++ projects;
+- 👀 I’m interested in Data Science & c++ projects;
 - 🌱 I’m currently persuing Computer Engineering at D.Y.Patil College of Engineering and Innovation, Talegaon, Pune;
 - 📫 How to reach me?
 -                   https://pranav0-0.github.io/Lmao/Contact-page/Contact
